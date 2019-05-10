@@ -38,5 +38,17 @@
       <version>1.0.4</version>
       <scope>compile</scope>
     </dependency>
+    <dependency>
+      <groupId>com.amap.api</groupId>
+      <artifactId>navi-3dmap</artifactId>
+      <version>6.1.0_3dmap6.2.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.getui</groupId>
+      <artifactId>sdk</artifactId>
+      <version>2.13.2.0</version>
+      <scope>compile</scope>
+    </dependency>
   </dependencies>
 </project>
